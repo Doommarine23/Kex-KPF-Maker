@@ -5,6 +5,10 @@ This is a very quick and dirty program. I may improve it over time with better f
 
 But this does everything I need / want at this moment. You can take your active dev directory, archive it, and copy that kpf archive into a game like Turok's Remaster quickly.
 
+# REQUIREMENTS
+[Python](https://www.python.org/)
+
+
 # HOW TO USE
 - Run from command-line / terminal e.g. ``python kex_kpf_maker.py``
 - Choose directory to archive
