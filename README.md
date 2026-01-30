@@ -1,7 +1,8 @@
 # Kex-KPF-Maker
-Archive directory &amp; sub-directories into .kpf archive for KEX games using Python.
+Archive directory &amp; sub-directories into .kpf archive for KEX engine games using Python.
 
 This is a very quick and dirty program. I may improve it over time with better flow and possibly a tkinter GUI with buttons, maybe even writing a changelog you can shove into your KPF.
+
 But this does everything I need / want at this moment. You can take your active dev directory, archive it, and copy that kpf archive into a game like Turok's Remaster quickly.
 
 # HOW TO USE
